@@ -1,0 +1,7 @@
+#实例，删除example后缀替换内容
+server.port=8080
+spring.datasource.url=你的数据库url
+spring.datasource.username=你的用户名
+spring.datasource.password=你的密码
+spring.datasource.driver-class-name=org.postgresql.Driver
+mybatis.type-aliases-package=org.example.你的路径
