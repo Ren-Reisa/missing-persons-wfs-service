@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### sensitive / local files ###
+application.properties
+项目经历总结.txt
